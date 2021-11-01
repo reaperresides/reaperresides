@@ -9,6 +9,8 @@
      - Tensorflow, Pytorch, Sklearn, pandas, Numpy
      - Dplyr,ggplot2
      - Data Visualization
+     - Computer Vision
+     - NLP
      
 - 💬 Ask me about :
      - Machine Learning
