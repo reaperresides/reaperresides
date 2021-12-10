@@ -13,6 +13,7 @@
      - Data Visualization
      - Computer Vision
      - NLP
+     - Agile methodology
      
 - 💬 Ask me about :
      - Machine Learning
